@@ -13,12 +13,3 @@ print(increment(1))
 
 
 
-# windows search: advanced system settings
-    # > environment variables
-    # > ad: 
-            # > C:\Users\[pc_user_name]\AppData\Local\Programs\Python\Python311\python //python
-            # > C:\Users\[pc_user_name]\AppData\Local\Programs\Python\Python311\Scripts //pip install (for libraries)
-
-            # add those lines in path
-                # > click on path and then edit
-                # > click on new and add one of those lines and then repeat for the other one!
